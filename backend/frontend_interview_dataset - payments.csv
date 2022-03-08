@@ -1,0 +1,500 @@
+tenant_id,tenant_name,payment_type,billing_frequency,payment_date,payment_amt,area
+30846,Dollar Tree,Base Rent,Monthly,2021-06-01,43489.43,26667
+30846,Dollar Tree,Base Rent,Monthly,2021-07-01,43489.43,26667
+30846,Dollar Tree,Base Rent,Monthly,2021-08-01,43489.43,26667
+30846,Dollar Tree,Base Rent,Monthly,2021-09-01,0.00,26667
+30846,Dollar Tree,Base Rent,Monthly,2021-10-01,0.00,26667
+30846,Dollar Tree,Base Rent,Monthly,2021-11-01,0.00,26667
+30846,Dollar Tree,Base Rent,Monthly,2021-12-01,0.00,26667
+30846,Dollar Tree,Base Rent,Monthly,2022-01-01,43489.43,26667
+30846,Dollar Tree,Base Rent,Monthly,2022-02-01,43489.43,26667
+30846,Dollar Tree,Base Rent,Monthly,2022-03-01,43489.43,26667
+30846,Dollar Tree,Base Rent,Monthly,2022-04-01,43489.43,26667
+30846,Dollar Tree,Base Rent,Monthly,2022-05-01,43489.43,26667
+30846,Dollar Tree,Base Rent,Monthly,2022-06-01,44800.56,26667
+30846,Dollar Tree,Base Rent,Monthly,2022-07-01,44800.56,26667
+30846,Dollar Tree,Base Rent,Monthly,2022-08-01,44800.56,26667
+30846,Dollar Tree,Base Rent,Monthly,2022-09-01,44800.56,26667
+30846,Dollar Tree,Base Rent,Monthly,2022-10-01,44800.56,26667
+30846,Dollar Tree,Base Rent,Monthly,2022-11-01,44800.56,26667
+30846,Dollar Tree,Base Rent,Monthly,2022-12-01,44800.56,26667
+30846,Dollar Tree,Base Rent,Monthly,2023-01-01,44800.56,26667
+30846,Dollar Tree,Base Rent,Monthly,2023-02-01,44800.56,26667
+30846,Dollar Tree,Base Rent,Monthly,2023-03-01,44800.56,26667
+30846,Dollar Tree,Base Rent,Monthly,2023-04-01,44800.56,26667
+30846,Dollar Tree,Base Rent,Monthly,2023-05-01,44800.56,26667
+30846,Dollar Tree,Base Rent,Monthly,2023-06-01,46133.91,26667
+30846,Dollar Tree,Base Rent,Monthly,2023-07-01,46133.91,26667
+30846,Dollar Tree,Base Rent,Monthly,2023-08-01,46133.91,26667
+30846,Dollar Tree,Base Rent,Monthly,2023-09-01,46133.91,26667
+30846,Dollar Tree,Base Rent,Monthly,2023-10-01,46133.91,26667
+30846,Dollar Tree,Base Rent,Monthly,2023-11-01,46133.91,26667
+30846,Dollar Tree,Base Rent,Monthly,2023-12-01,46133.91,26667
+30846,Dollar Tree,Base Rent,Monthly,2024-01-01,46133.91,26667
+30846,Dollar Tree,Base Rent,Monthly,2024-02-01,46133.91,26667
+30846,Dollar Tree,Base Rent,Monthly,2024-03-01,46133.91,26667
+30846,Dollar Tree,Base Rent,Monthly,2024-04-01,46133.91,26667
+30846,Dollar Tree,Base Rent,Monthly,2024-05-01,46133.91,26667
+30846,Dollar Tree,Base Rent,Monthly,2024-06-01,47511.71,26667
+30846,Dollar Tree,Base Rent,Monthly,2024-07-01,47511.71,26667
+30846,Dollar Tree,Base Rent,Monthly,2024-08-01,47511.71,26667
+30846,Dollar Tree,Base Rent,Monthly,2024-09-01,47511.71,26667
+30846,Dollar Tree,Base Rent,Monthly,2024-10-01,47511.71,26667
+30846,Dollar Tree,Base Rent,Monthly,2024-11-01,47511.71,26667
+30846,Dollar Tree,Base Rent,Monthly,2024-12-01,47511.71,26667
+30846,Dollar Tree,Base Rent,Monthly,2025-01-01,47511.71,26667
+30846,Dollar Tree,Base Rent,Monthly,2025-02-01,47511.71,26667
+30846,Dollar Tree,Base Rent,Monthly,2025-03-01,47511.71,26667
+30846,Dollar Tree,Base Rent,Monthly,2025-04-01,47511.71,26667
+30846,Dollar Tree,Base Rent,Monthly,2025-05-01,47511.71,26667
+30846,Dollar Tree,Base Rent,Monthly,2025-06-01,48933.95,26667
+30846,Dollar Tree,Base Rent,Monthly,2025-07-01,48933.95,26667
+30846,Dollar Tree,Base Rent,Monthly,2025-08-01,48933.95,26667
+30846,Dollar Tree,Base Rent,Monthly,2025-09-01,48933.95,26667
+30846,Dollar Tree,Base Rent,Monthly,2025-10-01,48933.95,26667
+30846,Dollar Tree,Base Rent,Monthly,2025-11-01,48933.95,26667
+30846,Dollar Tree,Base Rent,Monthly,2025-12-01,48933.95,26667
+30846,Dollar Tree,Base Rent,Monthly,2026-01-01,48933.95,26667
+30846,Dollar Tree,Base Rent,Monthly,2026-02-01,48933.95,26667
+30846,Dollar Tree,Base Rent,Monthly,2026-03-01,48933.95,26667
+30846,Dollar Tree,Base Rent,Monthly,2026-04-01,48933.95,26667
+30846,Dollar Tree,Base Rent,Monthly,2026-05-01,48933.95,26667
+30846,Dollar Tree,Base Rent,Monthly,2026-06-01,50400.63,26667
+30846,Dollar Tree,Base Rent,Monthly,2026-07-01,50400.63,26667
+30846,Dollar Tree,Base Rent,Monthly,2026-08-01,50400.63,26667
+30846,Dollar Tree,Base Rent,Monthly,2026-09-01,50400.63,26667
+30846,Dollar Tree,Base Rent,Monthly,2026-10-01,50400.63,26667
+30846,Dollar Tree,Base Rent,Monthly,2026-11-01,50400.63,26667
+30846,Dollar Tree,Base Rent,Monthly,2026-12-01,50400.63,26667
+30846,Dollar Tree,Base Rent,Monthly,2027-01-01,50400.63,26667
+30846,Dollar Tree,Base Rent,Monthly,2027-02-01,50400.63,26667
+30846,Dollar Tree,Base Rent,Monthly,2027-03-01,50400.63,26667
+30846,Dollar Tree,Base Rent,Monthly,2027-04-01,50400.63,26667
+30846,Dollar Tree,Base Rent,Monthly,2027-05-01,50400.63,26667
+30846,Dollar Tree,Base Rent,Monthly,2027-06-01,51911.76,26667
+30846,Dollar Tree,Base Rent,Monthly,2027-07-01,51911.76,26667
+30846,Dollar Tree,Base Rent,Monthly,2027-08-01,51911.76,26667
+30846,Dollar Tree,Base Rent,Monthly,2027-09-01,51911.76,26667
+30846,Dollar Tree,Base Rent,Monthly,2027-10-01,51911.76,26667
+30846,Dollar Tree,Base Rent,Monthly,2027-11-01,51911.76,26667
+30846,Dollar Tree,Base Rent,Monthly,2027-12-01,51911.76,26667
+30846,Dollar Tree,Base Rent,Monthly,2028-01-01,51911.76,26667
+30846,Dollar Tree,Base Rent,Monthly,2028-02-01,51911.76,26667
+30846,Dollar Tree,Base Rent,Monthly,2028-03-01,51911.76,26667
+30846,Dollar Tree,Base Rent,Monthly,2028-04-01,51911.76,26667
+30846,Dollar Tree,Base Rent,Monthly,2028-05-01,51911.76,26667
+30846,Dollar Tree,Base Rent,Monthly,2028-06-01,53467.34,26667
+30846,Dollar Tree,Base Rent,Monthly,2028-07-01,53467.34,26667
+30846,Dollar Tree,Base Rent,Monthly,2028-08-01,53467.34,26667
+30846,Dollar Tree,Base Rent,Monthly,2028-09-01,53467.34,26667
+30846,Dollar Tree,Base Rent,Monthly,2028-10-01,53467.34,26667
+30846,Dollar Tree,Base Rent,Monthly,2028-11-01,53467.34,26667
+30875,H&R Block,Base Rent,Monthly,2021-10-01,32849.19,19712
+30875,H&R Block,Base Rent,Monthly,2021-11-01,32849.19,19712
+30875,H&R Block,Base Rent,Monthly,2021-12-01,32849.19,19712
+30875,H&R Block,Base Rent,Monthly,2022-01-01,32849.19,19712
+30875,H&R Block,Base Rent,Monthly,2022-02-01,32849.19,19712
+30875,H&R Block,Base Rent,Monthly,2022-03-01,32849.19,19712
+30875,H&R Block,Base Rent,Monthly,2022-04-01,32849.19,19712
+30875,H&R Block,Base Rent,Monthly,2022-05-01,32849.19,19712
+30875,H&R Block,Base Rent,Monthly,2022-06-01,32849.19,19712
+30875,H&R Block,Base Rent,Monthly,2022-07-01,32849.19,19712
+30875,H&R Block,Base Rent,Monthly,2022-08-01,32849.19,19712
+30875,H&R Block,Base Rent,Monthly,2022-09-01,32849.19,19712
+30875,H&R Block,Base Rent,Monthly,2022-10-01,33834.67,19712
+30875,H&R Block,Base Rent,Monthly,2022-11-01,33834.67,19712
+30875,H&R Block,Base Rent,Monthly,2022-12-01,33834.67,19712
+30875,H&R Block,Base Rent,Monthly,2023-01-01,33834.67,19712
+30875,H&R Block,Base Rent,Monthly,2023-02-01,33834.67,19712
+30875,H&R Block,Base Rent,Monthly,2023-03-01,33834.67,19712
+30875,H&R Block,Base Rent,Monthly,2023-04-01,33834.67,19712
+30875,H&R Block,Base Rent,Monthly,2023-05-01,33834.67,19712
+30875,H&R Block,Base Rent,Monthly,2023-06-01,33834.67,19712
+30875,H&R Block,Base Rent,Monthly,2023-07-01,33834.67,19712
+30875,H&R Block,Base Rent,Monthly,2023-08-01,33834.67,19712
+30875,H&R Block,Base Rent,Monthly,2023-09-01,33834.67,19712
+30875,H&R Block,Base Rent,Monthly,2023-10-01,34849.71,19712
+30875,H&R Block,Base Rent,Monthly,2023-11-01,34849.71,19712
+30875,H&R Block,Base Rent,Monthly,2023-12-01,34849.71,19712
+30875,H&R Block,Base Rent,Monthly,2024-01-01,34849.71,19712
+30875,H&R Block,Base Rent,Monthly,2024-02-01,34849.71,19712
+30875,H&R Block,Base Rent,Monthly,2024-03-01,34849.71,19712
+30875,H&R Block,Base Rent,Monthly,2024-04-01,34849.71,19712
+30875,H&R Block,Base Rent,Monthly,2024-05-01,34849.71,19712
+30875,H&R Block,Base Rent,Monthly,2024-06-01,34849.71,19712
+30875,H&R Block,Base Rent,Monthly,2024-07-01,34849.71,19712
+30875,H&R Block,Base Rent,Monthly,2024-08-01,34849.71,19712
+30875,H&R Block,Base Rent,Monthly,2024-09-01,34849.71,19712
+30875,H&R Block,Base Rent,Monthly,2024-10-01,35895.20,19712
+30875,H&R Block,Base Rent,Monthly,2024-11-01,35895.20,19712
+30875,H&R Block,Base Rent,Monthly,2024-12-01,35895.20,19712
+30875,H&R Block,Base Rent,Monthly,2025-01-01,35895.20,19712
+30875,H&R Block,Base Rent,Monthly,2025-02-01,35895.20,19712
+30875,H&R Block,Base Rent,Monthly,2025-03-01,35895.20,19712
+30875,H&R Block,Base Rent,Monthly,2025-04-01,35895.20,19712
+30875,H&R Block,Base Rent,Monthly,2025-05-01,35895.20,19712
+30875,H&R Block,Base Rent,Monthly,2025-06-01,35895.20,19712
+30875,H&R Block,Base Rent,Monthly,2025-07-01,35895.20,19712
+30875,H&R Block,Base Rent,Monthly,2025-08-01,35895.20,19712
+30875,H&R Block,Base Rent,Monthly,2025-09-01,35895.20,19712
+30875,H&R Block,Base Rent,Monthly,2025-10-01,36972.05,19712
+30875,H&R Block,Base Rent,Monthly,2025-11-01,36972.05,19712
+30875,H&R Block,Base Rent,Monthly,2025-12-01,36972.05,19712
+30875,H&R Block,Base Rent,Monthly,2026-01-01,36972.05,19712
+30875,H&R Block,Base Rent,Monthly,2026-02-01,36972.05,19712
+30875,H&R Block,Base Rent,Monthly,2026-03-01,36972.05,19712
+30875,H&R Block,Base Rent,Monthly,2026-04-01,36972.05,19712
+30875,H&R Block,Base Rent,Monthly,2026-05-01,36972.05,19712
+30875,H&R Block,Base Rent,Monthly,2026-06-01,36972.05,19712
+30875,H&R Block,Base Rent,Monthly,2026-07-01,36972.05,19712
+30875,H&R Block,Base Rent,Monthly,2026-08-01,36972.05,19712
+30875,H&R Block,Base Rent,Monthly,2026-09-01,36972.05,19712
+30875,H&R Block,Base Rent,Monthly,2026-10-01,38081.21,19712
+30875,H&R Block,Base Rent,Monthly,2026-11-01,38081.21,19712
+30875,H&R Block,Base Rent,Monthly,2026-12-01,38081.21,19712
+30875,H&R Block,Base Rent,Monthly,2027-01-01,38081.21,19712
+30875,H&R Block,Base Rent,Monthly,2027-02-01,38081.21,19712
+30875,H&R Block,Base Rent,Monthly,2027-03-01,38081.21,19712
+31144,Rack Room Shoes,Base Rent,Monthly,2021-07-01,11365.78,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2021-08-01,11365.78,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2021-09-01,11365.78,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2021-10-01,11365.78,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2021-10-01,5936.96,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2021-11-01,11365.78,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2021-11-01,5936.96,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2021-12-01,11706.75,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2021-12-01,5936.96,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2022-01-01,11706.75,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2022-01-01,5936.96,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2022-02-01,11706.75,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2022-02-01,5936.96,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2022-03-01,11706.75,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2022-03-01,5936.96,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2022-04-01,11706.75,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2022-04-01,5936.96,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2022-05-01,11706.75,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2022-05-01,6116.67,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2022-06-01,11706.75,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2022-06-01,6116.67,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2022-07-01,11706.75,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2022-07-01,6116.67,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2022-08-01,11706.75,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2022-08-01,6116.67,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2022-09-01,11706.75,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2022-09-01,6116.67,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2022-10-01,11706.75,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2022-10-01,6116.67,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2022-11-01,11706.75,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2022-11-01,6116.67,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2022-12-01,12057.95,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2022-12-01,6116.67,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2023-01-01,12057.95,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2023-01-01,6116.67,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2023-02-01,12057.95,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2023-02-01,6116.67,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2023-03-01,12057.95,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2023-03-01,6116.67,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2023-04-01,12057.95,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2023-04-01,6116.67,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2023-05-01,12057.95,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2023-05-01,6299.59,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2023-06-01,12057.95,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2023-06-01,6299.59,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2023-07-01,12057.95,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2023-07-01,6299.59,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2023-08-01,12057.95,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2023-08-01,6299.59,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2023-09-01,12057.95,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2023-09-01,6299.59,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2023-10-01,12057.95,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2023-10-01,6299.59,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2023-11-01,12057.95,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2023-11-01,6299.59,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2023-12-01,12419.69,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2023-12-01,6299.59,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2024-01-01,12419.69,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-01-01,6299.59,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2024-02-01,12419.69,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-02-01,6299.59,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2024-03-01,13143.92,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-03-01,6299.59,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2024-04-01,13143.92,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-04-01,6299.59,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2024-05-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-05-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-05-01,6488.94,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2024-06-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-06-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-06-01,6488.94,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2024-07-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-07-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-07-01,6488.94,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2024-08-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-08-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-08-01,6488.94,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2024-09-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-09-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-09-01,6488.94,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2024-10-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-10-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-10-01,6488.94,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2024-11-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-11-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-11-01,6488.94,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2024-12-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-12-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2024-12-01,6488.94,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2025-01-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-01-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-01-01,6488.94,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2025-02-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-02-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-02-01,6488.94,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2025-03-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-03-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-03-01,6488.94,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2025-04-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-04-01,13538.98,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-04-01,6488.94,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2025-05-01,13940.73,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-05-01,6681.49,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2025-06-01,13940.73,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-06-01,6681.49,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2025-07-01,13940.73,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-07-01,6681.49,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2025-08-01,13940.73,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-08-01,6681.49,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2025-09-01,13940.73,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-09-01,6681.49,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2025-10-01,13940.73,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-10-01,6681.49,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2025-11-01,13940.73,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-11-01,6681.49,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2025-12-01,13940.73,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2025-12-01,6681.49,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2026-01-01,13940.73,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2026-01-01,6681.49,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2026-02-01,13940.73,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2026-02-01,6681.49,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2026-03-01,13940.73,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2026-03-01,6681.49,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2026-04-01,13940.73,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2026-04-01,6681.49,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2026-05-01,14362.56,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2026-05-01,6883.66,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2026-06-01,14362.56,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2026-06-01,6883.66,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2026-07-01,14362.56,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2026-07-01,6883.66,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2026-08-01,14362.56,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2026-08-01,6883.66,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2026-09-01,14362.56,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2026-09-01,6883.66,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2026-10-01,14362.56,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2026-10-01,6883.66,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2026-11-01,14362.56,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2026-11-01,6883.66,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2026-12-01,14362.56,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2026-12-01,6883.66,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2027-01-01,14362.56,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2027-01-01,6883.66,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2027-02-01,14362.56,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2027-02-01,6883.66,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2027-03-01,14362.56,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2027-03-01,6883.66,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2027-04-01,14362.56,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2027-04-01,6883.66,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2027-05-01,14791.10,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2027-05-01,7089.05,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2027-06-01,14791.10,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2027-06-01,7089.05,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2027-07-01,14791.10,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2027-07-01,7089.05,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2027-08-01,14791.10,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2027-08-01,7089.05,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2027-09-01,14791.10,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2027-09-01,7089.05,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2027-10-01,14791.10,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2027-10-01,7089.05,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2027-11-01,14791.10,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2027-11-01,7089.05,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2027-12-01,14791.10,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2027-12-01,7089.05,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2028-01-01,14791.10,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2028-01-01,7089.05,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2028-02-01,14791.10,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2028-02-01,7089.05,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2028-03-01,14791.10,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2028-03-01,7089.05,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2028-04-01,14791.10,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2028-04-01,7089.05,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2028-05-01,15233.02,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2028-05-01,7300.85,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2028-06-01,15233.02,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2028-06-01,7300.85,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2028-07-01,15233.02,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2028-07-01,7300.85,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2028-08-01,15233.02,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2028-08-01,7300.85,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2028-09-01,15233.02,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2028-09-01,7300.85,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2028-10-01,15233.02,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2028-10-01,7300.85,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2028-11-01,15233.02,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2028-11-01,7300.85,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2028-12-01,15233.02,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2028-12-01,7300.85,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2029-01-01,15233.02,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2029-01-01,7300.85,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2029-02-01,15233.02,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2029-02-01,7300.85,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2029-03-01,15233.02,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2029-03-01,7300.85,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2029-04-01,15233.02,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2029-04-01,7300.85,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2029-05-01,15695.03,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2029-05-01,7522.29,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2029-06-01,15695.03,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2029-06-01,7522.29,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2029-07-01,15695.03,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2029-07-01,7522.29,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2029-08-01,15695.03,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2029-08-01,7522.29,3851
+31144,Rack Room Shoes,Base Rent,Monthly,2029-09-01,15695.03,8035
+31144,Rack Room Shoes,Base Rent,Monthly,2029-09-01,7522.29,3851
+30802,Subway,Base Rent,Monthly,2022-04-01,65195.68,47938
+30802,Subway,Base Rent,Monthly,2022-05-01,74064.21,47938
+30802,Subway,Base Rent,Monthly,2022-06-01,74064.21,47938
+30802,Subway,Base Rent,Monthly,2022-07-01,74064.21,47938
+30802,Subway,Base Rent,Monthly,2022-08-01,74064.21,47938
+30802,Subway,Base Rent,Monthly,2022-09-01,76301.32,47938
+30802,Subway,Base Rent,Monthly,2022-10-01,76301.32,47938
+30802,Subway,Base Rent,Monthly,2022-11-01,76301.32,47938
+30802,Subway,Base Rent,Monthly,2022-12-01,76301.32,47938
+30802,Subway,Base Rent,Monthly,2023-01-01,76301.32,47938
+30802,Subway,Base Rent,Monthly,2023-02-01,76301.32,47938
+30802,Subway,Base Rent,Monthly,2023-03-01,76301.32,47938
+30802,Subway,Base Rent,Monthly,2023-04-01,76301.32,47938
+30802,Subway,Base Rent,Monthly,2023-05-01,76301.32,47938
+30802,Subway,Base Rent,Monthly,2023-06-01,76301.32,47938
+30802,Subway,Base Rent,Monthly,2023-07-01,76301.32,47938
+30802,Subway,Base Rent,Monthly,2023-08-01,76301.32,47938
+30802,Subway,Base Rent,Monthly,2023-09-01,78578.37,47938
+30802,Subway,Base Rent,Monthly,2023-10-01,78578.37,47938
+30802,Subway,Base Rent,Monthly,2023-11-01,78578.37,47938
+30802,Subway,Base Rent,Monthly,2023-12-01,78578.37,47938
+30802,Subway,Base Rent,Monthly,2024-01-01,78578.37,47938
+30802,Subway,Base Rent,Monthly,2024-02-01,78578.37,47938
+30802,Subway,Base Rent,Monthly,2024-03-01,78578.37,47938
+30802,Subway,Base Rent,Monthly,2024-04-01,78578.37,47938
+30802,Subway,Base Rent,Monthly,2024-05-01,78578.37,47938
+30802,Subway,Base Rent,Monthly,2024-06-01,78578.37,47938
+30802,Subway,Base Rent,Monthly,2024-07-01,78578.37,47938
+30802,Subway,Base Rent,Monthly,2024-08-01,78578.37,47938
+30802,Subway,Base Rent,Monthly,2026-09-01,85888.92,47938
+30802,Subway,Base Rent,Monthly,2026-10-01,85888.92,47938
+30802,Subway,Base Rent,Monthly,2026-11-01,85888.92,47938
+30802,Subway,Base Rent,Monthly,2026-12-01,85888.92,47938
+30802,Subway,Base Rent,Monthly,2027-01-01,85888.92,47938
+30802,Subway,Base Rent,Monthly,2027-02-01,85888.92,47938
+30802,Subway,Base Rent,Monthly,2027-03-01,85888.92,47938
+30802,Subway,Base Rent,Monthly,2027-04-01,85888.92,47938
+30802,Subway,Base Rent,Monthly,2027-05-01,85888.92,47938
+30802,Subway,Base Rent,Monthly,2027-06-01,85888.92,47938
+30802,Subway,Base Rent,Monthly,2027-07-01,85888.92,47938
+30802,Subway,Base Rent,Monthly,2027-08-01,85888.92,47938
+30802,Subway,Base Rent,Monthly,2027-09-01,88485.56,47938
+30802,Subway,Base Rent,Monthly,2027-10-01,88485.56,47938
+30802,Subway,Base Rent,Monthly,2027-11-01,88485.56,47938
+30802,Subway,Base Rent,Monthly,2027-12-01,88485.56,47938
+30802,Subway,Base Rent,Monthly,2028-01-01,88485.56,47938
+30841,Bath & Body Works,Base Rent,Monthly,2021-06-01,58710.73,65334
+30841,Bath & Body Works,Base Rent,Monthly,2021-07-01,58710.73,65334
+30841,Bath & Body Works,Base Rent,Monthly,2021-08-01,58710.73,65334
+30841,Bath & Body Works,Base Rent,Monthly,2021-09-01,0.00,65334
+30841,Bath & Body Works,Base Rent,Monthly,2021-10-01,0.00,65334
+30841,Bath & Body Works,Base Rent,Monthly,2021-11-01,0.00,65334
+30841,Bath & Body Works,Base Rent,Monthly,2021-12-01,0.00,65334
+30841,Bath & Body Works,Base Rent,Monthly,2022-01-01,58710.73,65334
+30841,Bath & Body Works,Base Rent,Monthly,2022-02-01,58710.73,65334
+30841,Bath & Body Works,Base Rent,Monthly,2022-03-01,58710.73,65334
+30841,Bath & Body Works,Base Rent,Monthly,2022-04-01,58710.73,65334
+30841,Bath & Body Works,Base Rent,Monthly,2022-05-01,58710.73,65334
+30841,Bath & Body Works,Base Rent,Monthly,2022-06-01,60480.76,65334
+30841,Bath & Body Works,Base Rent,Monthly,2022-07-01,60480.76,65334
+30841,Bath & Body Works,Base Rent,Monthly,2022-08-01,60480.76,65334
+30841,Bath & Body Works,Base Rent,Monthly,2022-09-01,60480.76,65334
+30841,Bath & Body Works,Base Rent,Monthly,2022-10-01,60480.76,65334
+30841,Bath & Body Works,Base Rent,Monthly,2022-11-01,60480.76,65334
+30841,Bath & Body Works,Base Rent,Monthly,2022-12-01,60480.76,65334
+30841,Bath & Body Works,Base Rent,Monthly,2023-01-01,60480.76,65334
+30841,Bath & Body Works,Base Rent,Monthly,2023-02-01,60480.76,65334
+30841,Bath & Body Works,Base Rent,Monthly,2023-03-01,60480.76,65334
+30841,Bath & Body Works,Base Rent,Monthly,2023-04-01,60480.76,65334
+30841,Bath & Body Works,Base Rent,Monthly,2023-05-01,60480.76,65334
+30841,Bath & Body Works,Base Rent,Monthly,2023-06-01,62280.78,65334
+30841,Bath & Body Works,Base Rent,Monthly,2023-07-01,62280.78,65334
+30841,Bath & Body Works,Base Rent,Monthly,2023-08-01,62280.78,65334
+30841,Bath & Body Works,Base Rent,Monthly,2023-09-01,62280.78,65334
+30841,Bath & Body Works,Base Rent,Monthly,2023-10-01,62280.78,65334
+30841,Bath & Body Works,Base Rent,Monthly,2023-11-01,62280.78,65334
+30841,Bath & Body Works,Base Rent,Monthly,2023-12-01,62280.78,65334
+30841,Bath & Body Works,Base Rent,Monthly,2024-01-01,62280.78,65334
+30841,Bath & Body Works,Base Rent,Monthly,2024-02-01,62280.78,65334
+30841,Bath & Body Works,Base Rent,Monthly,2024-03-01,62280.78,65334
+30841,Bath & Body Works,Base Rent,Monthly,2024-04-01,62280.78,65334
+30841,Bath & Body Works,Base Rent,Monthly,2024-05-01,62280.78,65334
+30841,Bath & Body Works,Base Rent,Monthly,2024-06-01,64140.81,65334
+30841,Bath & Body Works,Base Rent,Monthly,2024-07-01,64140.81,65334
+30841,Bath & Body Works,Base Rent,Monthly,2024-08-01,64140.81,65334
+30841,Bath & Body Works,Base Rent,Monthly,2024-09-01,64140.81,65334
+30841,Bath & Body Works,Base Rent,Monthly,2024-10-01,64140.81,65334
+30841,Bath & Body Works,Base Rent,Monthly,2024-11-01,64140.81,65334
+30841,Bath & Body Works,Base Rent,Monthly,2024-12-01,64140.81,65334
+30841,Bath & Body Works,Base Rent,Monthly,2025-01-01,64140.81,65334
+30841,Bath & Body Works,Base Rent,Monthly,2025-02-01,64140.81,65334
+30841,Bath & Body Works,Base Rent,Monthly,2025-03-01,64140.81,65334
+30841,Bath & Body Works,Base Rent,Monthly,2025-04-01,64140.81,65334
+30841,Bath & Body Works,Base Rent,Monthly,2025-05-01,64140.81,65334
+30841,Bath & Body Works,Base Rent,Monthly,2025-06-01,66060.83,65334
+30841,Bath & Body Works,Base Rent,Monthly,2025-07-01,66060.83,65334
+30841,Bath & Body Works,Base Rent,Monthly,2025-08-01,66060.83,65334
+30841,Bath & Body Works,Base Rent,Monthly,2025-09-01,66060.83,65334
+30841,Bath & Body Works,Base Rent,Monthly,2025-10-01,66060.83,65334
+30841,Bath & Body Works,Base Rent,Monthly,2025-11-01,66060.83,65334
+30841,Bath & Body Works,Base Rent,Monthly,2025-12-01,66060.83,65334
+30841,Bath & Body Works,Base Rent,Monthly,2026-01-01,66060.83,65334
+30841,Bath & Body Works,Base Rent,Monthly,2026-02-01,66060.83,65334
+30841,Bath & Body Works,Base Rent,Monthly,2026-03-01,66060.83,65334
+30841,Bath & Body Works,Base Rent,Monthly,2026-04-01,66060.83,65334
+30841,Bath & Body Works,Base Rent,Monthly,2026-05-01,66060.83,65334
+30841,Bath & Body Works,Base Rent,Monthly,2026-06-01,68040.85,65334
+30841,Bath & Body Works,Base Rent,Monthly,2026-07-01,68040.85,65334
+30841,Bath & Body Works,Base Rent,Monthly,2026-08-01,68040.85,65334
+30841,Bath & Body Works,Base Rent,Monthly,2026-09-01,68040.85,65334
+30841,Bath & Body Works,Base Rent,Monthly,2026-10-01,68040.85,65334
+30841,Bath & Body Works,Base Rent,Monthly,2026-11-01,68040.85,65334
+30841,Bath & Body Works,Base Rent,Monthly,2026-12-01,68040.85,65334
+30841,Bath & Body Works,Base Rent,Monthly,2027-01-01,68040.85,65334
+30841,Bath & Body Works,Base Rent,Monthly,2027-02-01,68040.85,65334
+30841,Bath & Body Works,Base Rent,Monthly,2027-03-01,68040.85,65334
+30841,Bath & Body Works,Base Rent,Monthly,2027-04-01,68040.85,65334
+30841,Bath & Body Works,Base Rent,Monthly,2027-05-01,68040.85,65334
+30841,Bath & Body Works,Base Rent,Monthly,2027-06-01,70080.88,65334
+30841,Bath & Body Works,Base Rent,Monthly,2027-07-01,70080.88,65334
+30841,Bath & Body Works,Base Rent,Monthly,2027-08-01,70080.88,65334
+30841,Bath & Body Works,Base Rent,Monthly,2027-09-01,70080.88,65334
+30841,Bath & Body Works,Base Rent,Monthly,2027-10-01,70080.88,65334
+30841,Bath & Body Works,Base Rent,Monthly,2027-11-01,70080.88,65334
+30841,Bath & Body Works,Base Rent,Monthly,2027-12-01,70080.88,65334
+30841,Bath & Body Works,Base Rent,Monthly,2028-01-01,70080.88,65334
+30841,Bath & Body Works,Base Rent,Monthly,2028-02-01,70080.88,65334
+30841,Bath & Body Works,Base Rent,Monthly,2028-03-01,70080.88,65334
+30841,Bath & Body Works,Base Rent,Monthly,2028-04-01,70080.88,65334
+30841,Bath & Body Works,Base Rent,Monthly,2028-05-01,70080.88,65334
+30841,Bath & Body Works,Base Rent,Monthly,2028-06-01,72180.91,65334
+30841,Bath & Body Works,Base Rent,Monthly,2028-07-01,72180.91,65334
+30841,Bath & Body Works,Base Rent,Monthly,2028-08-01,72180.91,65334
+30841,Bath & Body Works,Base Rent,Monthly,2028-09-01,72180.91,65334
+30841,Bath & Body Works,Base Rent,Monthly,2028-10-01,72180.91,65334
+30841,Bath & Body Works,Base Rent,Monthly,2028-11-01,72180.91,65334
