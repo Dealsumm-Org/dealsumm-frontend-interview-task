@@ -14,7 +14,7 @@ source ./dealsumm-env/bin/activate
 pip install -r ./backend/requirements.txt
 ```
 
-## Start app
+## Start server
 ```bash
 cd backend
 flask run
