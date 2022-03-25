@@ -2,9 +2,12 @@ import json
 from flask import Flask
 import pandas as pd
 from random import uniform
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
+print(__name__)
 
 @app.route("/")
 def live():
